@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.streamlit/
+*.log
+.ipynb_checkpoints/
+chroma_db/
+.venv/
+__pycache__/
+*.pyc
+.env
+model/final_model/model.safetensors
+model/final_model/checkpoint-*/
+data/sessions/

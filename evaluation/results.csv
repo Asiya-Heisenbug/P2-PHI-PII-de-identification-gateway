@@ -1,0 +1,5 @@
+system,precision,recall,f1,leak_rate
+regex,1.000,0.798,0.887,0.202
+presidio,0.916,0.718,0.803,0.282
+our_model (fine_tuned),0.964,0.917,0.939,0.083
+our_model_adversarial_only (fine_tuned),0.928,0.928,0.928,0.072
